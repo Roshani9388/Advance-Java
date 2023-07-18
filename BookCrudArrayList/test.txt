@@ -1,0 +1,3 @@
+book name=the secret
+cost=100
+authorname=GaurGopalDas
